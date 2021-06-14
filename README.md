@@ -12,7 +12,7 @@ git clone https://github.com/MRK4/lightshotgenerator
 
 pip install colorama
 
-cd pastebingenerator
+cd lightshotgenerator
 
 python3 main.py
 ```
